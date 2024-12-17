@@ -7,12 +7,12 @@
 		{"id":"89a0e2031c1f8ecc","type":"text","text":"/etc/bashrc 写了命令行常用指令\n\tch cg 等","x":560,"y":-280,"width":250,"height":60},
 		{"id":"4f80d2bc387a6639","type":"text","text":"/home/cdatc/.bashrc [[xfce]]的启动","x":863,"y":-213,"width":250,"height":60},
 		{"id":"dcd7bb148e34faf6","type":"text","text":".bashrc","x":-28,"y":-40,"width":250,"height":60},
-		{"id":"686a6ae99cebd16b","type":"text","text":"bashrc","x":238,"y":40,"width":250,"height":60},
 		{"id":"a7eb26f015763539","type":"text","text":"启动守护进程mnt (mnt.desktop)","x":488,"y":-70,"width":250,"height":60},
 		{"id":"580a1f5e0344f3eb","type":"text","text":"mnt启动mid","x":562,"y":57,"width":250,"height":60},
 		{"id":"3a1321dab272fbc7","type":"text","text":"mid检查[[license]]","x":752,"y":-43,"width":250,"height":60},
-		{"id":"7814f535a3e2b447","x":815,"y":200,"width":250,"height":60,"type":"text","text":"license检查通过：从服务器同步共享内存"},
-		{"id":"45f424c81efe8cb3","x":400,"y":180,"width":255,"height":82,"type":"text","text":"同步共享内存完成或超时：通知mnt启动其他程序"}
+		{"id":"7814f535a3e2b447","type":"text","text":"license检查通过：从服务器同步共享内存","x":815,"y":200,"width":250,"height":60},
+		{"id":"45f424c81efe8cb3","type":"text","text":"同步共享内存完成或超时：通知mnt启动其他程序","x":400,"y":180,"width":255,"height":82},
+		{"id":"686a6ae99cebd16b","type":"text","text":"bashrc","x":238,"y":27,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"94aa819bfbfef3f5","fromNode":"26f6458efd10641d","fromSide":"right","toNode":"676c5caa79cb9275","toSide":"left"},

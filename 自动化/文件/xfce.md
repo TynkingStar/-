@@ -6,3 +6,4 @@
 
 ## 参数路径
 /home/cdatc/config/xfce4/
+

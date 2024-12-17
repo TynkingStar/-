@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e19fed7e53243b4",
+            "id": "ef6ace359a1234cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ef6ace359a1234cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自动化/文件系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自动化/文件系统.md",
+                "file": "自动化/文件/xfce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自动化/文件系统.md",
+                "file": "自动化/文件/xfce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自动化/文件系统.md"
+                "file": "自动化/文件/xfce.md"
               }
             }
+          },
+          {
+            "id": "a3f3334622d6e4f8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -163,16 +159,16 @@
   },
   "active": "ef6ace359a1234cb",
   "lastOpenFiles": [
-    "自动化/文件/bashrc.md",
     "塔台自动化/塔台自动化资质能力排查复选资料（初级）V2.pdf",
+    "自动化/自动化启动流程.canvas",
+    "自动化/文件系统.md",
+    "自动化/文件/xfce.md",
+    "自动化/文件/bashrc.md",
+    "自动化/文件/license.md",
     "Readme.txt",
     "新建文本文档.txt",
     "塔台自动化",
-    "自动化/文件/xfce.md",
-    "自动化/自动化启动流程.canvas",
     "自动化/服务器",
-    "自动化/文件系统.md",
-    "自动化/文件/license.md",
     "自动化/文件",
     "附件",
     "自动化",
