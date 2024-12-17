@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "4d3ce2062964d63d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dac18078ba31c66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e19fed7e53243b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自动化/文件/xfce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef6ace359a1234cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自动化/文件系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94ce0ff1a1ae6c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "2011d387dc0b263c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707fd6cac8652843",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abb246fcf24203c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27e1abb0bd3f20c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d439de4bbaaa3ab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c8f3ad42181eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0668e2a8bd67f31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "自动化/文件系统.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eddcd5fe2680fc5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "自动化/文件系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b185240b1ecf409c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89965123713f6198",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "自动化/文件系统.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ef6ace359a1234cb",
+  "lastOpenFiles": [
+    "自动化/文件/bashrc.md",
+    "塔台自动化/塔台自动化资质能力排查复选资料（初级）V2.pdf",
+    "Readme.txt",
+    "新建文本文档.txt",
+    "塔台自动化",
+    "自动化/文件/xfce.md",
+    "自动化/自动化启动流程.canvas",
+    "自动化/服务器",
+    "自动化/文件系统.md",
+    "自动化/文件/license.md",
+    "自动化/文件",
+    "附件",
+    "自动化",
+    "未命名.md",
+    "欢迎.md"
+  ]
+}

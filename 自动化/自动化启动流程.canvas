@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"904e515b48ad9900","type":"group","x":-140,"y":-300,"width":1273,"height":167,"label":"启动时涉及的关键环境变量"},
+		{"id":"26f6458efd10641d","type":"text","text":"操作系统启动","x":-340,"y":-40,"width":160,"height":60},
+		{"id":"676c5caa79cb9275","type":"text","text":"rc.local 启动redis共享内存","x":-120,"y":-280,"width":250,"height":60},
+		{"id":"99af1cb7dc2fcb55","type":"text","text":"/etc/profile 运行库、环境变量","x":200,"y":-220,"width":288,"height":60},
+		{"id":"89a0e2031c1f8ecc","type":"text","text":"/etc/bashrc 写了命令行常用指令\n\tch cg 等","x":560,"y":-280,"width":250,"height":60},
+		{"id":"4f80d2bc387a6639","type":"text","text":"/home/cdatc/.bashrc [[xfce]]的启动","x":863,"y":-213,"width":250,"height":60},
+		{"id":"dcd7bb148e34faf6","type":"text","text":".bashrc","x":-28,"y":-40,"width":250,"height":60},
+		{"id":"686a6ae99cebd16b","type":"text","text":"bashrc","x":238,"y":40,"width":250,"height":60},
+		{"id":"a7eb26f015763539","type":"text","text":"启动守护进程mnt (mnt.desktop)","x":488,"y":-70,"width":250,"height":60},
+		{"id":"580a1f5e0344f3eb","type":"text","text":"mnt启动mid","x":562,"y":57,"width":250,"height":60},
+		{"id":"3a1321dab272fbc7","type":"text","text":"mid检查[[license]]","x":752,"y":-43,"width":250,"height":60},
+		{"id":"7814f535a3e2b447","x":815,"y":200,"width":250,"height":60,"type":"text","text":"license检查通过：从服务器同步共享内存"},
+		{"id":"45f424c81efe8cb3","x":400,"y":180,"width":255,"height":82,"type":"text","text":"同步共享内存完成或超时：通知mnt启动其他程序"}
+	],
+	"edges":[
+		{"id":"94aa819bfbfef3f5","fromNode":"26f6458efd10641d","fromSide":"right","toNode":"676c5caa79cb9275","toSide":"left"},
+		{"id":"002eabe40577dc15","fromNode":"676c5caa79cb9275","fromSide":"right","toNode":"99af1cb7dc2fcb55","toSide":"left"},
+		{"id":"f7ad83351eabd265","fromNode":"99af1cb7dc2fcb55","fromSide":"right","toNode":"89a0e2031c1f8ecc","toSide":"left"},
+		{"id":"aed9eb2d5c36b686","fromNode":"89a0e2031c1f8ecc","fromSide":"right","toNode":"4f80d2bc387a6639","toSide":"left"},
+		{"id":"c541522e8be55d35","fromNode":"26f6458efd10641d","fromSide":"bottom","toNode":"dcd7bb148e34faf6","toSide":"top"},
+		{"id":"b15acae991bf84d7","fromNode":"dcd7bb148e34faf6","fromSide":"bottom","toNode":"686a6ae99cebd16b","toSide":"top"},
+		{"id":"09a42ff611ef9cd0","fromNode":"686a6ae99cebd16b","fromSide":"bottom","toNode":"a7eb26f015763539","toSide":"top"},
+		{"id":"d053388969dc5668","fromNode":"a7eb26f015763539","fromSide":"bottom","toNode":"580a1f5e0344f3eb","toSide":"top"},
+		{"id":"e8d2770a675e1a77","fromNode":"580a1f5e0344f3eb","fromSide":"bottom","toNode":"3a1321dab272fbc7","toSide":"top"},
+		{"id":"3654492e1ffee34a","fromNode":"3a1321dab272fbc7","fromSide":"bottom","toNode":"7814f535a3e2b447","toSide":"top"},
+		{"id":"6eed79a2d511ffff","fromNode":"7814f535a3e2b447","fromSide":"bottom","toNode":"45f424c81efe8cb3","toSide":"top"}
+	]
+}

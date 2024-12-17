@@ -1,0 +1,10 @@
+{
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "smartIndentList": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "附件",
+  "userIgnoreFilters": [
+    "附件/"
+  ]
+}
