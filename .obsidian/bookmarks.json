@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1734440683393,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1734441518538,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1734441518538,
+              "path": "自动化/自动化启动流程.canvas",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1734441518538,
+              "path": "自动化/文件系统.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1734441518538,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1734441518538,
+                  "path": "自动化/文件/xfce.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1734441518538,
+                  "path": "自动化/文件/license.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "文件"
+            },
+            {
+              "type": "group",
+              "ctime": 1734441518538,
+              "items": [],
+              "title": "服务器"
+            }
+          ],
+          "title": "自动化"
+        },
+        {
+          "type": "group",
+          "ctime": 1734441518538,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1734441518538,
+              "path": "塔台自动化/塔台自动化资质能力排查（初级）.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "塔台自动化"
+        },
+        {
+          "type": "group",
+          "ctime": 1734441518538,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1734441518538,
+              "path": "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "附件"
+        },
+        {
+          "type": "file",
+          "ctime": 1734441518538,
+          "path": "目录.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1734441518538,
+          "path": "sortspec.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
