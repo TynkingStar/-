@@ -4,18 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bb558ade1c8a1755",
+        "id": "59a6e2f3db5233eb",
         "type": "tabs",
         "children": [
           {
-            "id": "87d8f3325862bb3d",
+            "id": "b247a4008be4379a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "目录.md",
-                "mode": "source",
-                "source": false
+                "file": "塔台自动化/塔台自动化学习列表.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               }
             }
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "目录.md",
+                "file": "塔台自动化/塔台自动化学习列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "目录.md",
+                "file": "塔台自动化/塔台自动化学习列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "目录.md"
+                "file": "塔台自动化/塔台自动化学习列表.md"
               }
             }
           },
@@ -146,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,16 +168,18 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "87d8f3325862bb3d",
+  "active": "b247a4008be4379a",
   "lastOpenFiles": [
-    "sortspec.md",
     "目录.md",
-    "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
+    "塔台自动化/塔台自动化学习列表.md",
     "塔台自动化/塔台自动化资质能力排查（初级）.md",
     "自动化/自动化启动流程.canvas",
-    "自动化/文件/xfce.md",
+    "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
+    "附件/附件",
     "自动化/文件/license.md",
+    "自动化/文件/xfce.md",
     "自动化/文件系统.md",
+    "sortspec.md",
     "塔台自动化/塔台自动化资质能力排查资料（初级）.md",
     "自动化/文件/未命名看板.md",
     "自动化/文件/bashrc.md",

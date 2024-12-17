@@ -3,7 +3,7 @@
   "autoPairMarkdown": false,
   "smartIndentList": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "附件",
+  "attachmentFolderPath": "附件/附件",
   "userIgnoreFilters": [
     "附件/"
   ]
