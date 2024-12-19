@@ -11,17 +11,33 @@
             "id": "b247a4008be4379a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自动化/文件系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1948f846c6c84cf0",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
-                "file": "塔台自动化/塔台自动化学习列表.md",
+                "file": "自动化/自动化学习列表.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": []
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "塔台自动化/塔台自动化学习列表.md",
+                "file": "自动化/自动化学习列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "塔台自动化/塔台自动化学习列表.md",
+                "file": "自动化/自动化学习列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "塔台自动化/塔台自动化学习列表.md"
+                "file": "自动化/自动化学习列表.md"
               }
             }
           },
@@ -164,21 +180,23 @@
       "audio-recorder:开始/结束录音": false,
       "random-note:开始漫游笔记": false,
       "obsidian-kanban:创建新看板": false,
-      "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b247a4008be4379a",
+  "active": "1948f846c6c84cf0",
   "lastOpenFiles": [
-    "目录.md",
+    "补充技术原理.md",
     "塔台自动化/塔台自动化学习列表.md",
     "塔台自动化/塔台自动化资质能力排查（初级）.md",
-    "自动化/自动化启动流程.canvas",
-    "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
-    "附件/附件",
+    "自动化/自动化学习列表.md",
+    "自动化/文件系统.md",
+    "目录.md",
     "自动化/文件/license.md",
     "自动化/文件/xfce.md",
-    "自动化/文件系统.md",
+    "自动化/自动化启动流程.canvas",
+    "自动化/未命名.md",
+    "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
+    "附件/附件",
     "sortspec.md",
     "塔台自动化/塔台自动化资质能力排查资料（初级）.md",
     "自动化/文件/未命名看板.md",
