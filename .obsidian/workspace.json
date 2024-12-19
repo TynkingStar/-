@@ -16,7 +16,9 @@
                 "file": "自动化/文件系统.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "文件系统"
             }
           },
           {
@@ -33,7 +35,9 @@
                     false
                   ]
                 }
-              }
+              },
+              "icon": "lucide-trello",
+              "title": "自动化学习列表"
             }
           }
         ],
@@ -57,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -72,7 +78,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -80,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -111,7 +121,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "自动化学习列表 的反向链接列表"
             }
           },
           {
@@ -123,7 +135,9 @@
                 "file": "自动化/自动化学习列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "自动化学习列表 的出链列表"
             }
           },
           {
@@ -134,7 +148,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -144,7 +160,9 @@
               "type": "outline",
               "state": {
                 "file": "自动化/自动化学习列表.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "自动化学习列表 的大纲"
             }
           },
           {
@@ -152,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -160,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "annotations-outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
@@ -185,15 +207,15 @@
   },
   "active": "1948f846c6c84cf0",
   "lastOpenFiles": [
-    "补充技术原理.md",
     "塔台自动化/塔台自动化学习列表.md",
     "塔台自动化/塔台自动化资质能力排查（初级）.md",
+    "补充技术原理.md",
+    "目录.md",
+    "自动化/自动化启动流程.canvas",
     "自动化/自动化学习列表.md",
     "自动化/文件系统.md",
-    "目录.md",
     "自动化/文件/license.md",
     "自动化/文件/xfce.md",
-    "自动化/自动化启动流程.canvas",
     "自动化/未命名.md",
     "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
     "附件/附件",
