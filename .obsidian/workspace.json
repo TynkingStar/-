@@ -22,6 +22,35 @@
             }
           }
         ]
+      },
+      {
+        "id": "8db55dbce9fe9d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02fddcc6a6a7361d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "塔台自动化/塔台自动化学习列表.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null,
+                    null,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "塔台自动化学习列表"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "塔台自动化/数据流向.md",
+                "file": "塔台自动化/塔台自动化学习列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "数据流向 的反向链接列表"
+              "title": "塔台自动化学习列表 的反向链接列表"
             }
           },
           {
@@ -112,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "塔台自动化/数据流向.md",
+                "file": "塔台自动化/塔台自动化学习列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "数据流向 的出链列表"
+              "title": "塔台自动化学习列表 的出链列表"
             }
           },
           {
@@ -139,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "塔台自动化/数据流向.md"
+                "file": "塔台自动化/塔台自动化学习列表.md"
               },
               "icon": "lucide-list",
-              "title": "数据流向 的大纲"
+              "title": "塔台自动化学习列表 的大纲"
             }
           },
           {
@@ -185,11 +214,11 @@
       "canvas:新建白板": false
     }
   },
-  "active": "b247a4008be4379a",
+  "active": "02fddcc6a6a7361d",
   "lastOpenFiles": [
-    "自动化/自动化启动流程.canvas",
     "塔台自动化/数据流向.md",
     "塔台自动化/塔台自动化学习列表.md",
+    "自动化/自动化启动流程.canvas",
     "目录.md",
     "自动化/文件系统.md",
     "塔台自动化/塔台自动化初级资料.md",
