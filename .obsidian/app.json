@@ -6,5 +6,6 @@
   "attachmentFolderPath": "附件/附件",
   "userIgnoreFilters": [
     "附件/"
-  ]
+  ],
+  "promptDelete": false
 }
