@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "塔台自动化/塔台自动化学习列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "塔台自动化学习列表 的反向链接列表"
             }
           },
           {
@@ -120,11 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "塔台自动化/塔台自动化学习列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "塔台自动化学习列表 的出链列表"
             }
           },
           {
@@ -146,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "塔台自动化/塔台自动化学习列表.md"
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "塔台自动化学习列表 的大纲"
             }
           },
           {
@@ -192,14 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "707fd6cac8652843",
+  "active": "b247a4008be4379a",
   "lastOpenFiles": [
+    "塔台自动化/塔台自动化初级资料.md",
+    "自动化/自动化学习列表.md",
     "塔台自动化/塔台自动化学习列表.md",
     "conflict-files-obsidian-git.md",
-    "自动化/自动化学习列表.md",
     "补充技术原理.md",
     "目录.md",
-    "塔台自动化/塔台自动化初级资料.md",
     "自动化/自动化启动流程.canvas",
     "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
     "附件/附件",
