@@ -25,18 +25,70 @@
             "id": "3d310336ad1aba4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "规章/规章1-民用航空通信导航监视工作规则.md",
-                "mode": "source",
-                "source": true
+                "file": "规章/规章1-民用航空通信导航监视工作规则.md"
               },
               "icon": "lucide-file",
               "title": "规章1-民用航空通信导航监视工作规则"
             }
+          },
+          {
+            "id": "e98e9d4a78e68afd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "规章/规章2-民用航空通信导航监视设备飞行校验管理规则.md"
+              },
+              "icon": "lucide-file",
+              "title": "规章2-民用航空通信导航监视设备飞行校验管理规则"
+            }
+          },
+          {
+            "id": "c57aa75c916b242c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "规章/规章3-民用航空空中交通管理运行单位安全管理规则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "规章3-民用航空空中交通管理运行单位安全管理规则"
+            }
+          },
+          {
+            "id": "8510ec520b96228a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "规章/规章4-民用航空电信人员执照管理规则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "规章4-民用航空电信人员执照管理规则"
+            }
+          },
+          {
+            "id": "78eab6bfbba14c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "规章/规章5-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "规章5-"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,17 +252,21 @@
       "canvas:新建白板": false
     }
   },
-  "active": "3d310336ad1aba4a",
+  "active": "78eab6bfbba14c64",
   "lastOpenFiles": [
-    "目录.md",
+    "规章/规章4-民用航空电信人员执照管理规则.md",
+    "规章/规章5-.md",
+    "规章/规章3-民用航空空中交通管理运行单位安全管理规则.md",
+    "规章/规章2-民用航空通信导航监视设备飞行校验管理规则.md",
     "规章/规章1-民用航空通信导航监视工作规则.md",
     "塔台自动化/塔台自动化初级资料.md",
+    "塔台自动化/塔台自动化学习列表.md",
+    "目录.md",
     "附件/4民用航空电信人员执照管理规则.pdf",
     "附件/3民用航空空中交通管理运行单位安全管理规则.pdf",
     "附件/2民用航空通信导航监视设备飞行校验管理规则.pdf",
     "附件/1民用航空通信导航监视工作规则.pdf",
     "附件/5飞行间隔规定.pdf",
-    "塔台自动化/塔台自动化学习列表.md",
     "规章",
     "塔台自动化/数据流向.md",
     "自动化/自动化启动流程.canvas",
