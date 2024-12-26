@@ -3,6 +3,7 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "tipsBlockDiy",
-    "headline"
+    "headline",
+    "slidecallout"
   ]
 }
