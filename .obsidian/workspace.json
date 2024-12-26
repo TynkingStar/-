@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "595a9ea5797d690a",
+        "id": "bb7e67f2f7a4891f",
         "type": "tabs",
         "children": [
           {
             "id": "f1ecc3f87e60888f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "附件/2023年空管自动化系统资质能力排查V5.5.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2023年空管自动化系统资质能力排查V5.5"
+            }
+          }
+        ]
+      },
+      {
+        "id": "595a9ea5797d690a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc2f2edf4951882b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,17 +204,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f1ecc3f87e60888f",
+  "active": "fc2f2edf4951882b",
   "lastOpenFiles": [
-    "附件/附件/2023年空管自动化系统资质能力排查V5.5.pdf",
+    "附件/2023年空管自动化系统资质能力排查V5.5.pdf",
+    "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
+    "自动化/自动化数据流向.md",
     "自动化/自动化资质能力排查.md",
     "目录.md",
     "塔台自动化/塔台自动化初级资料.md",
-    "自动化/自动化数据流向.md",
     "自动化/自动化启动流程.canvas",
     "自动化/自动化学习列表.md",
     "自动化/文件系统.md",
-    "附件/附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
     "附件/自动化数据流向图.md",
     "规章/规章1-民用航空通信导航监视工作规则.md",
     "补充技术原理.md",
