@@ -116,13 +116,12 @@ body {
   --header-indicator-bg-h6: transparent;
 
  
-  --h1-indicator-color: #33a1c9;
-  --h2-indicator-color: #fe7968;
-  --h3-indicator-color: #f39c12;
-  --h4-indicator-color: #bdfcc9;
-  --h5-indicator-color: #78ba7e;
-  --h6-indicator-color: #038aff;
-
+ --h1-indicator-color: #fe7968;
+  --h2-indicator-color: #f39c12;
+  --h3-indicator-color: #e5c700;
+  --h4-indicator-color: #78ba7e;
+  --h5-indicator-color: #038aff;
+  --h6-indicator-color: #9455ec;
 
   --color-red: #fe7968;
   --color-orange: #f39c12;
@@ -131,12 +130,12 @@ body {
   --color-blue: #038aff;
   --color-purple: #9455ec;
 
-  --h1-color: #33a1c9;
-  --h2-color: #fe7968;
-  --h3-color: #f39c12;
-  --h4-color: #bdfcc9;
-  --h5-color: #78ba7e;
-  --h6-color:#038aff;
+  --h1-color: #292421;
+  --h2-color: #696969;
+  --h3-color: #A9A9A9;
+  --h4-color: #C0C0C0;
+  --h5-color: #D3D3D3;
+  --h6-color:#DCDCDC;
 }
 
 .theme-dark {
