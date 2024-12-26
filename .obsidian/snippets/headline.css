@@ -115,6 +115,8 @@ body {
   --header-indicator-color-h6: var(--h6-color);
   --header-indicator-bg-h6: transparent;
 
+ 
+  --h1-indicator-color: #33a1c9;
   --h1-indicator-color: #fe7968;
   --h2-indicator-color: #f39c12;
   --h3-indicator-color: #e5c700;
