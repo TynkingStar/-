@@ -1,4 +1,7 @@
 {
   "accentColor": "#9f7af5",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "tipsBlockDiy"
+  ]
 }
