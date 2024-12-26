@@ -4,48 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "59a6e2f3db5233eb",
+        "id": "73ec1a14b2f54fbc",
         "type": "tabs",
         "children": [
           {
-            "id": "b247a4008be4379a",
+            "id": "28d80082b0b324e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自动化/文件系统.md",
+                "file": "目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件系统"
+              "title": "目录"
             }
           },
           {
-            "id": "1948f846c6c84cf0",
+            "id": "3d310336ad1aba4a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf-annotator",
               "state": {
-                "file": "塔台自动化/塔台自动化学习列表.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    null,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "规章/规章1-民用航空通信导航监视工作规则.md"
               },
-              "icon": "lucide-trello",
-              "title": "塔台自动化学习列表"
+              "icon": "lucide-file",
+              "title": "规章1-民用航空通信导航监视工作规则"
+            }
+          },
+          {
+            "id": "e98e9d4a78e68afd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "规章/规章2-民用航空通信导航监视设备飞行校验管理规则.md"
+              },
+              "icon": "lucide-file",
+              "title": "规章2-民用航空通信导航监视设备飞行校验管理规则"
+            }
+          },
+          {
+            "id": "c57aa75c916b242c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "规章/规章3-民用航空空中交通管理运行单位安全管理规则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "规章3-民用航空空中交通管理运行单位安全管理规则"
+            }
+          },
+          {
+            "id": "8510ec520b96228a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "规章/规章4-民用航空电信人员执照管理规则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "规章4-民用航空电信人员执照管理规则"
+            }
+          },
+          {
+            "id": "78eab6bfbba14c64",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "规章/规章1-民用航空通信导航监视工作规则.md"
+              },
+              "icon": "lucide-file",
+              "title": "规章1-民用航空通信导航监视工作规则"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自动化/自动化学习列表.md",
+                "file": "塔台自动化/塔台自动化学习列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "自动化学习列表 的反向链接列表"
+              "title": "塔台自动化学习列表 的反向链接列表"
             }
           },
           {
@@ -136,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自动化/自动化学习列表.md",
+                "file": "塔台自动化/塔台自动化学习列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "自动化学习列表 的出链列表"
+              "title": "塔台自动化学习列表 的出链列表"
             }
           },
           {
@@ -163,10 +204,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自动化/自动化学习列表.md"
+                "file": "塔台自动化/塔台自动化学习列表.md"
               },
               "icon": "lucide-list",
-              "title": "自动化学习列表 的大纲"
+              "title": "塔台自动化学习列表 的大纲"
             }
           },
           {
@@ -201,41 +242,46 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
       "audio-recorder:开始/结束录音": false,
       "random-note:开始漫游笔记": false,
       "obsidian-kanban:创建新看板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "1948f846c6c84cf0",
+  "active": "78eab6bfbba14c64",
   "lastOpenFiles": [
+    "塔台自动化/塔台自动化学习列表.md",
+    "规章/规章1-民用航空通信导航监视工作规则.md",
+    "目录.md",
     "塔台自动化/塔台自动化初级资料.md",
     "塔台自动化/数据流向.md",
-    "塔台自动化/塔台自动化学习列表.md",
-    "自动化/自动化学习列表.md",
-    "塔台自动化/塔台自动化资质能力排查（初级）.md",
-    "补充技术原理.md",
-    "目录.md",
+    "规章/规章5-飞行间隔规定.md",
+    "规章/规章4-民用航空电信人员执照管理规则.md",
+    "规章/规章3-民用航空空中交通管理运行单位安全管理规则.md",
+    "规章/规章2-民用航空通信导航监视设备飞行校验管理规则.md",
+    "附件/4民用航空电信人员执照管理规则.pdf",
+    "附件/3民用航空空中交通管理运行单位安全管理规则.pdf",
+    "附件/2民用航空通信导航监视设备飞行校验管理规则.pdf",
+    "附件/1民用航空通信导航监视工作规则.pdf",
+    "附件/5飞行间隔规定.pdf",
+    "规章",
     "自动化/自动化启动流程.canvas",
     "自动化/文件系统.md",
-    "自动化/文件/license.md",
-    "自动化/文件/xfce.md",
-    "自动化/未命名.md",
+    "自动化/自动化学习列表.md",
+    "补充技术原理.md",
+    "conflict-files-obsidian-git.md",
     "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
     "附件/附件",
+    "自动化/文件/license.md",
+    "自动化/文件/xfce.md",
     "sortspec.md",
     "塔台自动化/塔台自动化资质能力排查资料（初级）.md",
     "自动化/文件/未命名看板.md",
     "自动化/文件/bashrc.md",
     "Readme.txt",
     "新建文本文档.txt",
-    "塔台自动化",
-    "自动化/服务器",
-    "自动化/文件",
-    "附件",
-    "自动化",
     "欢迎.md"
   ]
 }
