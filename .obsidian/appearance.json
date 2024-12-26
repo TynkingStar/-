@@ -2,6 +2,7 @@
   "accentColor": "#9f7af5",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "tipsBlockDiy"
+    "tipsBlockDiy",
+    "headline"
   ]
 }

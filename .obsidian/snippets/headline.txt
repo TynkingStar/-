@@ -1,6 +1,0 @@
-.cm-formatting.cm-header {
-  position: absolute;
-  right: 0em;
-  opacity: 0.5;
-  color: inherit;
-}
