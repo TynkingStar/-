@@ -25,12 +25,18 @@
             "id": "ea77316a626c06c9",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "kanban",
               "state": {
-                "file": "自动化/自动化资质能力排查.md"
+                "file": "自动化/自动化学习列表.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "自动化资质能力排查"
+              "icon": "lucide-trello",
+              "title": "自动化学习列表"
             }
           }
         ],
@@ -201,10 +207,10 @@
   },
   "active": "ea77316a626c06c9",
   "lastOpenFiles": [
-    "自动化/自动化学习列表.md",
-    "自动化/自动化资质能力排查.md",
     "自动化/自动化数据流向.md",
+    "自动化/自动化学习列表.md",
     "自动化/自动化启动流程.canvas",
+    "自动化/自动化资质能力排查.md",
     "塔台自动化/塔台自动化初级资料.md",
     "目录.md",
     "自动化/文件系统.md",
