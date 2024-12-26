@@ -8,42 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28d80082b0b324e8",
+            "id": "bbbcefefeb757664",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "kanban",
+              "state": {
+                "file": "补充技术原理.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "补充技术原理"
             }
           },
           {
-            "id": "5e3b68660818eb20",
+            "id": "8618955cdcb58503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自动化/数据流向.md",
+                "file": "数据类型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据流向"
-            }
-          },
-          {
-            "id": "bbbcefefeb757664",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "附件/自动化数据流向.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "自动化数据流向"
+              "title": "数据类型"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,17 +203,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "28d80082b0b324e8",
+  "active": "8618955cdcb58503",
   "lastOpenFiles": [
-    "自动化/数据流向.md",
-    "塔台自动化/数据流向.md",
+    "自动化/自动化数据流向.md",
+    "数据类型.md",
+    "补充技术原理.md",
+    "自动化/自动化学习列表.md",
+    "目录.md",
+    "塔台自动化/塔台自动化数据流向.md",
     "附件/自动化数据流向.md",
+    "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
+    "附件/5飞行间隔规定.pdf",
     "自动化/文件系统.md",
     "自动化/自动化启动流程.canvas",
-    "自动化/自动化学习列表.md",
     "塔台自动化/塔台自动化学习列表.md",
-    "目录.md",
-    "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
     "规章/规章1-民用航空通信导航监视工作规则.md",
     "塔台自动化/塔台自动化初级资料.md",
     "规章/规章5-飞行间隔规定.md",
@@ -229,9 +227,7 @@
     "附件/3民用航空空中交通管理运行单位安全管理规则.pdf",
     "附件/2民用航空通信导航监视设备飞行校验管理规则.pdf",
     "附件/1民用航空通信导航监视工作规则.pdf",
-    "附件/5飞行间隔规定.pdf",
     "规章",
-    "补充技术原理.md",
     "conflict-files-obsidian-git.md",
     "附件/附件",
     "自动化/文件/license.md",
