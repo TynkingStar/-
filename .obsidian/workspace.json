@@ -20,84 +20,8 @@
               "icon": "lucide-file",
               "title": "目录"
             }
-          },
-          {
-            "id": "3d310336ad1aba4a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "规章/规章1-民用航空通信导航监视工作规则.md"
-              },
-              "icon": "lucide-file",
-              "title": "规章1-民用航空通信导航监视工作规则"
-            }
-          },
-          {
-            "id": "e98e9d4a78e68afd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "规章/规章2-民用航空通信导航监视设备飞行校验管理规则.md"
-              },
-              "icon": "lucide-file",
-              "title": "规章2-民用航空通信导航监视设备飞行校验管理规则"
-            }
-          },
-          {
-            "id": "c57aa75c916b242c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "规章/规章3-民用航空空中交通管理运行单位安全管理规则.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "规章3-民用航空空中交通管理运行单位安全管理规则"
-            }
-          },
-          {
-            "id": "8510ec520b96228a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "规章/规章4-民用航空电信人员执照管理规则.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "规章4-民用航空电信人员执照管理规则"
-            }
-          },
-          {
-            "id": "78eab6bfbba14c64",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "塔台自动化/塔台自动化学习列表.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    null,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "塔台自动化学习列表"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,13 +185,14 @@
       "canvas:新建白板": false
     }
   },
-  "active": "78eab6bfbba14c64",
+  "active": "28d80082b0b324e8",
   "lastOpenFiles": [
+    "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
     "规章/规章1-民用航空通信导航监视工作规则.md",
+    "塔台自动化/塔台自动化学习列表.md",
     "目录.md",
     "塔台自动化/塔台自动化初级资料.md",
     "塔台自动化/数据流向.md",
-    "塔台自动化/塔台自动化学习列表.md",
     "规章/规章5-飞行间隔规定.md",
     "规章/规章4-民用航空电信人员执照管理规则.md",
     "规章/规章3-民用航空空中交通管理运行单位安全管理规则.md",
@@ -283,7 +208,6 @@
     "自动化/自动化学习列表.md",
     "补充技术原理.md",
     "conflict-files-obsidian-git.md",
-    "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
     "附件/附件",
     "自动化/文件/license.md",
     "自动化/文件/xfce.md",
