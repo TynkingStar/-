@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "附件",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -43,7 +43,7 @@
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
-  "renderImageInMarkdownReadingMode": false,
+  "renderImageInMarkdownReadingMode": true,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
   "allowPinchZoom": false,
