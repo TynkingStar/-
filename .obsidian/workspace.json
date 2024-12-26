@@ -77,12 +77,23 @@
             "id": "78eab6bfbba14c64",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "kanban",
               "state": {
-                "file": "规章/规章1-民用航空通信导航监视工作规则.md"
+                "file": "塔台自动化/塔台自动化学习列表.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null,
+                    null,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "规章1-民用航空通信导航监视工作规则"
+              "icon": "lucide-trello",
+              "title": "塔台自动化学习列表"
             }
           }
         ],
@@ -252,11 +263,11 @@
   },
   "active": "78eab6bfbba14c64",
   "lastOpenFiles": [
+    "规章/规章1-民用航空通信导航监视工作规则.md",
     "目录.md",
     "塔台自动化/塔台自动化初级资料.md",
     "塔台自动化/数据流向.md",
     "塔台自动化/塔台自动化学习列表.md",
-    "规章/规章1-民用航空通信导航监视工作规则.md",
     "规章/规章5-飞行间隔规定.md",
     "规章/规章4-民用航空电信人员执照管理规则.md",
     "规章/规章3-民用航空空中交通管理运行单位安全管理规则.md",
