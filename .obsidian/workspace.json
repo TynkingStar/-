@@ -11,18 +11,14 @@
             "id": "f1ecc3f87e60888f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "自动化/自动化学习列表.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "自动化/自动化数据流向.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "自动化学习列表"
+              "icon": "lucide-file",
+              "title": "自动化数据流向"
             }
           }
         ]
@@ -192,11 +188,11 @@
   },
   "active": "f1ecc3f87e60888f",
   "lastOpenFiles": [
-    "自动化/自动化数据流向.md",
     "自动化/自动化启动流程.canvas",
+    "自动化/自动化学习列表.md",
+    "自动化/自动化数据流向.md",
     "自动化/文件系统.md",
     "自动化/自动化资质能力排查.md",
-    "自动化/自动化学习列表.md",
     "塔台自动化/塔台自动化初级资料.md",
     "目录.md",
     "附件/附件/2023年空管自动化系统资质能力排查V5.5.pdf",
