@@ -6,6 +6,7 @@
       {
         "id": "bb7e67f2f7a4891f",
         "type": "tabs",
+        "dimension": 48.40604026845637,
         "children": [
           {
             "id": "f1ecc3f87e60888f",
@@ -24,6 +25,7 @@
       {
         "id": "dd8919629e19d32f",
         "type": "split",
+        "dimension": 51.59395973154363,
         "children": [
           {
             "id": "bbaea894dfec483e",
@@ -246,11 +248,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8708f4e3c6ae0ea7",
+  "active": "24dfead5936012d6",
   "lastOpenFiles": [
-    "自动化/自动化数据流向.md",
     "附件/数据流向图.md",
     "附件/2023年空管自动化系统资质能力排查V5.5.pdf",
+    "自动化/自动化数据流向.md",
     "数据类型.md",
     "塔台自动化/塔台自动化进程.md",
     "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
