@@ -22,23 +22,26 @@
         ]
       },
       {
-        "id": "9d5d6086d249a450",
+        "id": "dd8919629e19d32f",
         "type": "split",
         "children": [
           {
-            "id": "595a9ea5797d690a",
+            "id": "bbaea894dfec483e",
             "type": "tabs",
+            "dimension": 60.80097087378641,
             "children": [
               {
-                "id": "8708f4e3c6ae0ea7",
+                "id": "24dfead5936012d6",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "markdown",
                   "state": {
-                    "file": "附件/数据流向图.md"
+                    "file": "自动化/自动化数据流向.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "数据流向图"
+                  "icon": "lucide-file",
+                  "title": "自动化数据流向"
                 }
               }
             ]
@@ -46,6 +49,7 @@
           {
             "id": "4642d6fe09dbacc9",
             "type": "tabs",
+            "dimension": 39.19902912621359,
             "children": [
               {
                 "id": "46345314b55f8ebc",
@@ -60,8 +64,21 @@
                   "icon": "lucide-file",
                   "title": "塔台自动化进程"
                 }
+              },
+              {
+                "id": "8708f4e3c6ae0ea7",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "附件/数据流向图.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "数据流向图"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -229,12 +246,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8708f4e3c6ae0ea7",
+  "active": "24dfead5936012d6",
   "lastOpenFiles": [
-    "塔台自动化/塔台自动化进程.md",
     "附件/数据流向图.md",
     "自动化/自动化数据流向.md",
     "附件/2023年空管自动化系统资质能力排查V5.5.pdf",
+    "塔台自动化/塔台自动化进程.md",
     "附件/塔台自动化资质能力排查复选资料（初级）V2.pdf",
     "塔台自动化/塔台自动化数据流向.md",
     "塔台自动化/塔台自动化学习列表.md",
