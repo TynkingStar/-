@@ -7,6 +7,5 @@
   "userIgnoreFilters": [
     "附件/"
   ],
-  "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "promptDelete": false
 }
